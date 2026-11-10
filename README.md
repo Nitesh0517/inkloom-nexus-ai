@@ -10,6 +10,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38bdf8.svg)](https://tailwindcss.com/)
 [![Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-indigo.svg)](https://ai.google.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas%20Ready-brightgreen.svg)](https://www.mongodb.com/)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Nitesh0517/inkloom-nexus-ai)
 
 ---
 
